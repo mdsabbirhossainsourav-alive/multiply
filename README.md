@@ -25,7 +25,7 @@ Output the multiplication
 100000000000000
 ## Sample Input 2
 
--100 62
+-100  62
 ##  Sample Output 2
 
 -6200
